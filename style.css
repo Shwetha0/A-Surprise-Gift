@@ -1,0 +1,73 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    padding-top:10%;
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#myNavbar
+{
+    font-size: 25px;
+}
+
+#name
+{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.profile
+{
+    border-radius: 10px;
+    width: 30%;
+    height: 30%;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#tks
+{
+    text-align: right;
+    font-family: 'Lily Script One', cursive;
+}
+
+#personal img
+{
+    width: 900px;
+    height: 800px;
+}
+
+#writings
+{   
+    font-size: 40px;
+}
+#font
+{
+    color: aqua;
+    font-family: 'Lily Script One', cursive;
+}
